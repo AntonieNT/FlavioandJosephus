@@ -1,12 +1,12 @@
 import { ApiProperty } from '@nestjs/swagger';
-import { IsInt } from 'class-validator';
+import { IsInt, IsPositive } from 'class-validator';
 
 export class SolutionDto {
-  @ApiProperty()
-  @IsInt()
-  NumberOfPeople: number;
+  @ApiProperty({ example: 1 })
+  @IsPositive()
+  numberOfPeople: number;
 
   @ApiProperty({ example: 3 })
   @IsInt()
-  EliminationStep: number;
+  eliminationStep: number;
 }
