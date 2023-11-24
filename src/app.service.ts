@@ -35,7 +35,7 @@ export class AppService {
 
     return this.responseService.succesMessage(
       lastSurvivorPosition,
-      'La posición del último sobreviviente es: ',
+      'Posición del último sobreviviente:',
     );
   }
 }
