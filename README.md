@@ -76,7 +76,7 @@ Nest is [MIT licensed](LICENSE).
 ## Resumen del libro
 
 
-#Qué es la IA
+**Qué es la IA**
 
 La **Inteligencia Artificial (IA)** se refiere a la simulación de procesos de inteligencia humana mediante la programación de algoritmos en sistemas computacionales. El objetivo principal de la IA es desarrollar sistemas que puedan realizar tareas que normalmente requieren de la inteligencia humana, como el razonamiento, el aprendizaje, la percepción visual, el reconocimiento de voz, la toma de decisiones y la resolución de problemas.
 
@@ -108,7 +108,7 @@ En 1950, **Alan Turing** propuso una prueba que se definió con el propósito de
 
 La **Prueba de Turing** evitó deliberadamente la interacción física directa entre el evaluador y el computador, dado que para medir la inteligencia es innecesario simular físicamente a una persona. Sin embargo, la llamada *Prueba Global de Turing* incluye una señal de vídeo que permite al evaluador valorar la capacidad de percepción del evaluado y también le da la oportunidad al evaluador de pasar objetos físicos a través de una ventanita.
 
-Las características que debe cumplir un computador para poder obtener un resultado favorable son las siguientes:
+#Características que debe cumplir un computador para poder obtener un resultado favorable son las siguientes:
 1. **Visión Computacional:** para percibir objetos.
 2. **Robótica:** para manipular y mover objetos.
 
@@ -137,12 +137,12 @@ En el caso del enfoque de la **IA según las leyes del pensamiento**, todo el é
 
 La percepción visual es necesaria no solo porque ver es divertido, sino porque es esencial para tener una idea mejor de lo que una acción puede llegar a representar. Por esta razón, el estudio de la IA desde el enfoque del diseño de un agente racional ofrece al menos dos ventajas.
 
-1. La primera es más general que el enfoque que proporcionan las leyes del pensamiento, dado que efectuar inferencias correctas es solo uno de los mecanismos existentes para garantizar la racionalidad.
-2. La segunda es más afín a la forma en la que se ha producido el avance científico que los enfoques basados en la conducta o pensamiento humano, porque la norma de la racionalidad está claramente definida y es de aplicación general.
+**La primera** es más general que el enfoque que proporcionan las leyes del pensamiento, dado que efectuar inferencias correctas es solo uno de los mecanismos existentes para garantizar la racionalidad.
+**La segunda** es más afín a la forma en la que se ha producido el avance científico que los enfoques basados en la conducta o pensamiento humano, porque la norma de la racionalidad está claramente definida y es de aplicación general.
 
 Por otro lado, la conducta humana se adapta bien a un entorno específico y, en parte, es producto de un proceso evolutivo complejo, en gran medida desconocido, que aún está lejos de llevarnos a la perfección. Por tanto, esta obra se centrará en los principios generales que rigen a los agentes racionales y en los elementos necesarios para construirlos. Más adelante quedará patente que, a pesar de la aparente facilidad con la que se puede describir un problema, cuando se intenta resolver, surgen una enorme variedad de cuestiones.
 
-Los fundamentos necesarios para comprender el funcionamiento de una **Inteligencia Artificial (IA)** clave de las IA abarcan una serie de conceptos y principios fundamentales:
+#Los fundamentos necesarios para comprender el funcionamiento de una **Inteligencia Artificial (IA)** clave de las IA abarcan una serie de conceptos y principios fundamentales:
 
 1. **Algoritmos y Programación:**
 La **Inteligencia Artificial (IA)** se basa en algoritmos, que son secuencias de instrucciones o reglas lógicas diseñadas para realizar una tarea específica. La programación efectiva de estos algoritmos es esencial en el desarrollo de sistemas de IA.
