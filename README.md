@@ -75,7 +75,7 @@ Nest is [MIT licensed](LICENSE).
 
 ##Resumen del libro
 
-```bash
+
 # ¿Qué es la IA?
 
 La **Inteligencia Artificial (IA)** se refiere a la simulación de procesos de inteligencia humana mediante la programación de algoritmos en sistemas computacionales. El objetivo principal de la IA es desarrollar sistemas que puedan realizar tareas que normalmente requieren de la inteligencia humana, como el razonamiento, el aprendizaje, la percepción visual, el reconocimiento de voz, la toma de decisiones y la resolución de problemas.
@@ -212,7 +212,3 @@ Se espera que la mejora en la capacidad de los sistemas de IA para comprender y 
 El futuro de la IA se encuentra en constante cambio ya sea por las innovaciones tecnológicas, descubrimientos continuos e integración más profunda en diversos aspectos de la vida diaria.
 
 Por ello, es esencial abordar los desafíos éticos y sociales para garantizar un desarrollo responsable y equitativo.
-
-
-
-```
