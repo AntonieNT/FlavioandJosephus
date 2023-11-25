@@ -137,8 +137,8 @@ En el caso del enfoque de la **IA según las leyes del pensamiento**, todo el é
 
 La percepción visual es necesaria no solo porque ver es divertido, sino porque es esencial para tener una idea mejor de lo que una acción puede llegar a representar. Por esta razón, el estudio de la IA desde el enfoque del diseño de un agente racional ofrece al menos dos ventajas.
 
-**La primera** es más general que el enfoque que proporcionan las leyes del pensamiento, dado que efectuar inferencias correctas es solo uno de los mecanismos existentes para garantizar la racionalidad.
-**La segunda** es más afín a la forma en la que se ha producido el avance científico que los enfoques basados en la conducta o pensamiento humano, porque la norma de la racionalidad está claramente definida y es de aplicación general.
+** La primera es más general que el enfoque que proporcionan las leyes del pensamiento, dado que efectuar inferencias correctas es solo uno de los mecanismos existentes para garantizar la racionalidad. **
+** La segunda es más afín a la forma en la que se ha producido el avance científico que los enfoques basados en la conducta o pensamiento humano, porque la norma de la racionalidad está claramente definida y es de aplicación general. **
 
 Por otro lado, la conducta humana se adapta bien a un entorno específico y, en parte, es producto de un proceso evolutivo complejo, en gran medida desconocido, que aún está lejos de llevarnos a la perfección. Por tanto, esta obra se centrará en los principios generales que rigen a los agentes racionales y en los elementos necesarios para construirlos. Más adelante quedará patente que, a pesar de la aparente facilidad con la que se puede describir un problema, cuando se intenta resolver, surgen una enorme variedad de cuestiones.
 
