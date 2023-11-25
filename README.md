@@ -108,7 +108,7 @@ En 1950, **Alan Turing** propuso una prueba que se definió con el propósito de
 
 La **Prueba de Turing** evitó deliberadamente la interacción física directa entre el evaluador y el computador, dado que para medir la inteligencia es innecesario simular físicamente a una persona. Sin embargo, la llamada *Prueba Global de Turing* incluye una señal de vídeo que permite al evaluador valorar la capacidad de percepción del evaluado y también le da la oportunidad al evaluador de pasar objetos físicos a través de una ventanita.
 
-#Características que debe cumplir un computador para poder obtener un resultado favorable son las siguientes:
+## Características que debe cumplir un computador para poder obtener un resultado favorable son las siguientes:
 1. **Visión Computacional:** para percibir objetos.
 2. **Robótica:** para manipular y mover objetos.
 
@@ -142,7 +142,7 @@ La percepción visual es necesaria no solo porque ver es divertido, sino porque 
 
 Por otro lado, la conducta humana se adapta bien a un entorno específico y, en parte, es producto de un proceso evolutivo complejo, en gran medida desconocido, que aún está lejos de llevarnos a la perfección. Por tanto, esta obra se centrará en los principios generales que rigen a los agentes racionales y en los elementos necesarios para construirlos. Más adelante quedará patente que, a pesar de la aparente facilidad con la que se puede describir un problema, cuando se intenta resolver, surgen una enorme variedad de cuestiones.
 
-#Los fundamentos necesarios para comprender el funcionamiento de una **Inteligencia Artificial (IA)** clave de las IA abarcan una serie de conceptos y principios fundamentales:
+## Los fundamentos necesarios para comprender el funcionamiento de una **Inteligencia Artificial (IA)** clave de las IA abarcan una serie de conceptos y principios fundamentales:
 
 1. **Algoritmos y Programación:**
 La **Inteligencia Artificial (IA)** se basa en algoritmos, que son secuencias de instrucciones o reglas lógicas diseñadas para realizar una tarea específica. La programación efectiva de estos algoritmos es esencial en el desarrollo de sistemas de IA.
