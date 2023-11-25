@@ -93,10 +93,10 @@ Si se enfrenta a escenarios dinámicos donde el tamaño del grupo o las condicio
 Aunque resolver el problema de Favio y Josefo no es necesariamente un caso práctico para la inteligencia artificial en comparación con problemas reales, aplicar técnicas de IA puede ofrecer nuevas perspectivas y enfoques para abordar problemas teóricos y algorítmicos.
 
 
-## Resumen del libro
+# Resumen del libro
 
 
-**Qué es la IA**
+## Qué es la IA
 
 La **Inteligencia Artificial (IA)** se refiere a la simulación de procesos de inteligencia humana mediante la programación de algoritmos en sistemas computacionales. El objetivo principal de la IA es desarrollar sistemas que puedan realizar tareas que normalmente requieren de la inteligencia humana, como el razonamiento, el aprendizaje, la percepción visual, el reconocimiento de voz, la toma de decisiones y la resolución de problemas.
 
